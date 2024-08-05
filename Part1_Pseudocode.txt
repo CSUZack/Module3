@@ -1,0 +1,9 @@
+subtotal = user entered float
+tip = subtotal * 0.18
+salesTax = subtotal * 0.07
+total = subtotal + tip + salestax
+
+output Subtotal
+output tip
+output salesTax
+output total
